@@ -408,6 +408,9 @@ button:hover, .form-container .btn:hover {
     background-color: rgb(179, 77, 171); 
     color: rgb(39, 2, 37);
     border-color: rgb(35, 3, 63);
+    border-radius: 60px; /* Rounded button edges */
+    width: 130px; /* Width and height must match */
+    height: 90px;
     margin-bottom: 1vh; /* Adds space between the submit button and the close button */
 }
 
@@ -416,6 +419,9 @@ button:hover, .form-container .btn:hover {
     background-color: rgb(39, 2, 37);;
     color: rgb(247, 6, 187);
     border-color: rgb(247, 152, 239);
+    border-radius: 60px; /* Rounded button edges */
+    width: 130px; /* Width and height must match */
+    height: 90px;
 }
 
 /* Styling for close button on hover */

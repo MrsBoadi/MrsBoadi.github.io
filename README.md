@@ -13,7 +13,7 @@ This is my Portfolio that I created using Javascripts
 2.Body
 -Top section
  Introduction
- Contact Button
+ 
 
 -2nd section
  Slideshow

@@ -159,6 +159,7 @@ footer {
 .Navbar a.active { /* This targets the a element on the navbar with the "active" class */
     background-color: rgb(204, 159, 192);
 }
+
 /***** END OF NAVBAR STYLING *****/
 
 /***** VIDEO STYLING *****/
